@@ -26,10 +26,10 @@ html {
     repeating-linear-gradient(var(--c1) 0 25%,var(--c2) 0 50%);
   background-size: calc(4*var(--s)) calc(12*var(--s));
 }
-<!-- HTML !-->
-<button class="button-49" role="button">Button 49</button>
 
-/* CSS */
+
+
+
 .button-49,
 .button-49:after {
   width: 150px;
