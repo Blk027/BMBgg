@@ -2,7 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
-
+html {
+  background: rgba(50, 50, 50, 1)
+}
 
 .button-49,
 .button-49:after {
