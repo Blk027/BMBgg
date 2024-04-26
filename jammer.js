@@ -854,7 +854,6 @@ button.EgoXButton.EgoPopupDragButton {
           <button class="EgoMenuButton" data-text="Useful tools, main page" id="EgoButton1">Home</button>
           <button class="EgoMenuButton" data-text="Cheat and hacks for school" id="EgoButton2">Hacks/Cheats</button>
           <button class="EgoMenuButton" data-text="Unblocked sites or unblockers" id="EgoButton3">Unblocked</button>
-          <button class="EgoMenuButton" data-text="Unblocked games/custom games" id="EgoButton4">Games</button>
           <button class="EgoMenuButton" data-text="Downloadable HTML's" id="EgoButton6">HTML's</button>
 
           <button class="EgoMenuButton" data-text="Information about Ego Menu" id="EgoButton5">Info</button>
@@ -932,83 +931,13 @@ button.EgoXButton.EgoPopupDragButton {
       <button class="EgoMenuButton" id="regularDiscord" data-text="Sometimes all you need in a diff URL">Regular Discord</button>
 
       
-      
-      
-      </div>
-      </div>
-      <div class="EgoPage" id="EgoPage4">
-      <input class="egoSearchInput" type="text" id="searchInput" placeholder="Search...">
 
-      <div class="egoButtonHolder">
-      <button class="EgoMenuButton" id="UnblockedGamesWorld">Unblocked Games World</button>
-      <button class="EgoMenuButton" id="slopeCityPortal">Slope City</button>
-      <button class="EgoMenuButton" data-text="Selenite.cc by @skysthelimitt / skysthelimit.dev"id="egoSelenite">Selenite</button>
-
-      <button class="EgoMenuButton" id="BreakoutGame">Breakout</button>
-      <button class="EgoMenuButton" id="AsteroidGame">Asteroid</button>
-      <button class="EgoMenuButton" id="DinoGameCloaked">Dino Game (cloaked)</button>
-      
-      <button class="EgoMenuButton" id="CookieClickeGamer">Clicker Game</button>
-      <button class="EgoMenuButton" id="EgoGuessTheNumberGame">Guess The Number!</button>
-
-      <button class="EgoMenuButton" id="RockPaperScissors">Rock/Paper/Scissors</button>
-      <button class="EgoMenuButton" id="TotallyScienceGame">totallyscience.co</button>
-      <button class="EgoMenuButton" id="egoSlopeGame">Slope</button>
-      <button class="EgoMenuButton" id="egoDressUpGame">Dress Up Game</button>
-      <button class="EgoMenuButton" id="egoAmongUsOffline">Among Us (offline)</button>
-      <button class="EgoMenuButton" id="egoConnectFour">Connect Four</button>
-      <button class="EgoMenuButton" id="egoMobileGames">Mobile Games (yad)</button>
-      <button class="EgoMenuButton" id="egoUnblockedGames66">Unblocked Games 66</button>
-
-      <button class="EgoMenuButton" id="egoMidTierGames">Yiv Games</button>
-      <button class="EgoMenuButton" id="egoRun3">Run 3</button>
-      <button class="EgoMenuButton" id="egoPacMan">Pac Man</button>
-      <button class="EgoMenuButton" id="egoCheckers">Checkers</button>
-      <button class="EgoMenuButton" id="egoChess">Chess</button>
-      <button class="EgoMenuButton" id="egoFNAFWeb">FNAF Web</button>
-      <button class="EgoMenuButton" id="egoFNAF1PORT">FNAF Port</button>
-      <button class="EgoMenuButton" id="egoFNAF2">FNAF 2</button>
-      <button class="EgoMenuButton" id="egoFNAF3">FNAF 3</button>
-      <button class="EgoMenuButton" id="egoFNAF4">FNAF 4</button>
-      <button class="EgoMenuButton" id="egoFNAFSL">FNAF Sister Location</button>
-
-      <button class="EgoMenuButton" id="egoFNAFUCN">FNAF UCN</button>
-      <button class="EgoMenuButton" id="egoTicTacToe">Tic Tac Toe</button>
-
-      <button class="EgoMenuButton" id="egoOfficialCookieClicker">Cookie Clicker</button>
-      <button class="EgoMenuButton" id="egoMobileEmulator">Mobile Emulator</button>
-
-
-      
-
-      </div>
-      </div>
       <div class="EgoPage" id="EgoPage5">
       <div>Made by ego. <a href="https://yeahbread.github.io/#ego-menu" target="_blank">Project page</a>.</div>
       <img class="egoCoLogo" src="https://github.com/yeahbread/Ego-Menu-Bookmarklets/blob/main/ego(itterationOne).png?raw=true" alt="ego logo">
 
       </div>
-      <div class="EgoPage" id="EgoPage6">
 
-      <div class="egooHTMLHeader">Downloadable HTML's</div>
-      <div class="egoHTMLHeader2">How do they work?</div>
-      <div class="egoHTMLHeader3">
-      Download HTML files from the URLs below. Run the downloaded HTML files to open local webpages. No internet connection is required.!
-  </div>
-
-    
-      <button class="EgoMenuButton" data-text="⭐️ 7.3/10 (IMDb)" id="egoFNAF1HTML">FNAF 1</button>
-      <button class="EgoMenuButton" data-text="⭐️ 7.2/10 (IMDb)" id="egoFNAF2HTML">FNAF 2</button>
-      <button class="EgoMenuButton" data-text="⭐️ 6.4/10 (IMDb)" id="egoFNAF3HTML">FNAF 3</button>
-      <button class="EgoMenuButton" data-text="⭐️ 7.1/10 (IMDb)" id="egoFNAF4HTML">FNAF 4</button>
-      <button class="EgoMenuButton" data-text="⭐️ 7.3/10 (IMDb)" id="egoFNAFSLHTML">FNAF Sister Location</button>
-      <button class="EgoMenuButton" data-text="Fruit game :3" id="egoSuikaHTML">Suika Game 🍉</button>
-
-      <button class="EgoMenuButton" data-text="(RECOMMENDED) Checkout Eaglercraft.com!" id="egoEaglerCraftOffline">Minecraft</button>
-      <button class="EgoMenuButton" data-text="Checkout Eaglercraft.com!" id="egoEaglerCraftUltimateOffline">Minecraft Online</button>
-
-       </div>
-    
 
   `;
   menuContainer.appendChild(menuContent);
