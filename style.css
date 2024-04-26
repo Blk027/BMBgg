@@ -6,8 +6,6 @@ html {
   background-color: rgba(50, 50, 50, 1)
 }
 
-body.outset {border-style: outset;}
-
 .button-49,
 .button-49:after {
   width: 150px;
@@ -106,4 +104,13 @@ body.outset {border-style: outset;}
     height: 86px;
     line-height: 88px;
   }
+}
+
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
 }
