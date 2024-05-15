@@ -1,4 +1,3 @@
-
 javascript: (function() {
   const errorPrefixes = [
     'Uh oh, something goofed up... ',
