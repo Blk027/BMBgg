@@ -6,6 +6,33 @@ html {
   background-color: rgba(50, 50, 50, 1)
 }
 
+h1 {
+  color: white
+}
+
+h2 {
+  color: white
+}
+
+h3 {
+  color: white
+}
+
+p1 {
+  color: white
+}
+
+p2 {
+  color: white
+}
+
+p3 {
+  color: white
+}
+
+    body {
+	cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
+}
 
 * {
   box-sizing: border-box;
