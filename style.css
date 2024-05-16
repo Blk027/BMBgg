@@ -6,25 +6,22 @@ html {
   background-color: rgba(50, 50, 50, 1)
 }
 
-h1 {
+.h1 {
   color: white
 }
 
-h2 {
+.h2 {
   color: white
 }
 
-h3 {
+.h3 {
   color: white
 }
 
-p {
+.p {
   color: white
 }
 
-body {
-	cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
-}
 
 * {
   box-sizing: border-box;
@@ -32,6 +29,7 @@ body {
 
 body {
   margin: 0;
+  cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
 }
 
 .navbar {
