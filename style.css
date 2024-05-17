@@ -8,8 +8,8 @@ html {
 
 body {
   margin: 0;
-  cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
   color: white;
+  cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
 }
 
 .navbar {
@@ -96,7 +96,13 @@ body {
   clear: both;
 }
 
-
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    height: auto;
+  }
+}
 
 .button-49,
 .button-49:after {
