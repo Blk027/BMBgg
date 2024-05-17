@@ -9,6 +9,7 @@ html {
 body {
   margin: 0;
   cursor: url('https://images.app.goo.gl/rtLXF55tk2XRxKRo6'), default;
+  color: white;
 }
 
 .navbar {
