@@ -71,9 +71,9 @@ body {
 .column {
   float: left;
   width: 25%;
-  padding: 15px;
+  padding: 10px;
   background-color: rgba(50, 50, 50, 1);
-  height: 250px;
+  height: 100%;
 }
 
 .column a {
