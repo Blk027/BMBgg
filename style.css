@@ -67,10 +67,10 @@ body {
   display: block;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Creates equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 10px;
   background-color: rgba(50, 50, 50, 1);
   height: 250px;
